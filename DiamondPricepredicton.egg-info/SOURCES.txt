@@ -1,6 +1,10 @@
+README.md
 setup.py
 DiamondPricepredicton.egg-info/PKG-INFO
 DiamondPricepredicton.egg-info/SOURCES.txt
 DiamondPricepredicton.egg-info/dependency_links.txt
+DiamondPricepredicton.egg-info/requires.txt
 DiamondPricepredicton.egg-info/top_level.txt
 src/__init__.py
+src/exception.py
+src/logger.py
